@@ -6,13 +6,13 @@ sidebar_label: Prinsip dasar Penilaian untuk DUPAK
 
 # Prinsip dasar
 
-## Prinsip dasar Penilaian untuk DUPAK Semester II 2021:
+## Prinsip dasar Penilaian untuk DUPAK Semester I 2022:
 
-1. Periode kegiatan yang dinilai adalah **1 Januari s.d 31 Desember 2021**; 
+1. Periode kegiatan yang dinilai adalah **1 Januari s.d 30 Juni 2022**; 
 
-2. Kegiatan yang dapat diakui Angka Kredit adalah kegiatan yang dilaksanakan setelahtanggal TMT Jafung;
+2. Kegiatan yang dapat diakui Angka Kredit adalah kegiatan yang dilaksanakan setelah tanggal TMT Jafung;
 
-3. Untuk **kegiatan Subkoordinator dan Koordinator** dapat dinilai di Semester II 2021;
+3. **Kegiatan Subkoordinator dan Koordinator** dapat dinilai di Semester I 2022 jika pada semester sebelumnya belum dinilai atau dinilai 0 oleh tim penilai;
 
 4. Kegiatan Paket (PPK, PPSPM, Bendahara) hanya dapat diakui pada 1 (satu) satker;
 
@@ -26,7 +26,7 @@ sidebar_label: Prinsip dasar Penilaian untuk DUPAK
 
 9. Pejabat Fungsional yang mengerjakan butir kegiatan dengan Unsur Pengelolaan Administrasi Belanja Pegawai wajib memiliki SK KPA Penunjukan sebagai PPABP; dan
 
-10. Bagi Pejabat Fungsional APK APBN yang diangkat melalui **Penyetaraan Jabatan/Delayering**, hanya dapat mengerjakan unsur Analisis Laporan Keuangan, pendidikan, pengembangan profesi, dan penunjang jika tidak memiliki SK KPA Penunjukan sebagai Pengelola Keuangan APBN.
+10. Bagi Pejabat Fungsional APK APBN yang **tidak memiliki SK KPA Penunjukan sebagai Pengelola Perbendaharaan (PPK/PPSPM/Bendahara/ALK/PPABP)** hanya dapat mengerjakan unsur Anal pendidikan, pengembangan profesi, dan penunjang.
 
 ## Kode Kegiatan dan Cara Penilaian
 Kode Kegiatan merupakan 8 digit terakhir dari 10 digit referensi kegiatan, contoh 3511010101.
